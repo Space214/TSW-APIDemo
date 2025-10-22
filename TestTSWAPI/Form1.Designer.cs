@@ -89,11 +89,11 @@
             // label2
             // 
             label2.AutoSize = true;
-            label2.Location = new Point(652, 669);
+            label2.Location = new Point(671, 669);
             label2.Name = "label2";
             label2.Size = new Size(136, 15);
             label2.TabIndex = 5;
-            label2.Text = "TSWAPITest App V0.0.0.1";
+            label2.Text = "TSWAPITest App V1A";
             // 
             // label3
             // 
@@ -165,3 +165,4 @@
         private TextBox APIKey_TB;
     }
 }
+
